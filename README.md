@@ -2,7 +2,8 @@
 
 
 
-rl (BakkesMod-based) :
+### rl (BakkesMod-based) : 
+**non-bannable and safe to use**
+- installing BakkesMod --> integrating my presets into your AlphaConsole
 
-checks if BM already exists IF NOT --> downloads it through powershell IF NOT --> setting the presets of currently me
 
